@@ -159,11 +159,11 @@ button {
   padding: 2rem;
   border-radius: 1rem;
   cursor: pointer;
-  transition: 0.09s all;
+  transition: smooth 0.05s all;
 }
 
 button:active {
-  top: 96%;
+  top: 102%;
 }
 
 /* ======= FOOTER SECTION */
