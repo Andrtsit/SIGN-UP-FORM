@@ -137,19 +137,20 @@ label {
   margin: 0;
 }
 input {
-  width: 20rem;
+  width: 25rem;
   height: 5rem;
   margin: 0;
   padding: 0.5rem;
   font-family: inherit;
   text-align: center;
+  border: none;
 }
 
 button {
   display: block;
   background-color: #6e8658;
   color: #fff;
-  font-size: 3rem;
+  font-size: 2rem;
   font-family: inherit;
   font-weight: 600;
   position: absolute;
@@ -159,11 +160,10 @@ button {
   padding: 2rem;
   border-radius: 1rem;
   cursor: pointer;
-  transition: smooth 0.05s all;
 }
 
 button:active {
-  top: 102%;
+  top: 101%;
 }
 
 /* ======= FOOTER SECTION */
